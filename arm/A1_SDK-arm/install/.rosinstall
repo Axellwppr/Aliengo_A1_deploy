@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/arm_sdk/ci_pipeline/workspace/install/setup.sh

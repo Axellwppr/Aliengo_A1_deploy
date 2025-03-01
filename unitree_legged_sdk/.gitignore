@@ -1,0 +1,8 @@
+__pycache__
+build
+*.egg-info
+
+*.o
+.vscode
+*.onnx
+policy/
